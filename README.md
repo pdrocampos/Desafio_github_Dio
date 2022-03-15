@@ -1,2 +1,4 @@
 # Desafio_Github_Dio
-Desafio de Projeto Sobre Git/Github
+Repositório Criado para o Desafio de Projeto de Web Develomp da Dio
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
